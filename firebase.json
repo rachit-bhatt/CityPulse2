@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/city-pulse/",
+    "public": "dist/city-pulse/browser",
     "ignore": [
       "firebase.json",
       "**/.*",
