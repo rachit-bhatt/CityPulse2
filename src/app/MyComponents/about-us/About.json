@@ -1,0 +1,38 @@
+[
+    {
+        "ID" : "C0912873",
+        "FirstName" : "Bansil",
+        "LastName" : "Patel",
+        "Designation" : 1,
+        "GitHubProfile" : "https://github.com/bansil-patel",
+        "LinkedInProfile" : "https://www.linkedin.com/in/bansil-patel",
+        "EmailAddress" : "C0912873@mylambton.ca"
+    },
+    {
+        "ID" : "C0912872",
+        "FirstName" : "Harsh",
+        "LastName" : "Mohile",
+        "Designation" : 3,
+        "GitHubProfile" : "https://github.com/harsh-mohile",
+        "LinkedInProfile" : "https://www.linkedin.com/in/harsh-mohile",
+        "EmailAddress" : "C0912872@mylambton.ca"
+    },
+    {
+        "ID" : "C0910378",
+        "FirstName" : "Meet",
+        "LastName" : "Patel",
+        "Designation" : 2,
+        "GitHubProfile" : "https://github.com/meet-patel",
+        "LinkedInProfile" : "https://www.linkedin.com/in/meet-patel",
+        "EmailAddress" : "C0910378@mylambton.ca"
+    },
+    {
+        "ID" : "C0902810",
+        "FirstName" : "Rachit",
+        "LastName" : "Bhatt",
+        "Designation" : 0,
+        "GitHubProfile" : "https://github.com/rachit-bhatt",
+        "LinkedInProfile" : "https://www.linkedin.com/in/rachit-bhatt",
+        "EmailAddress" : "C0902810@mylambton.ca"
+    }
+]

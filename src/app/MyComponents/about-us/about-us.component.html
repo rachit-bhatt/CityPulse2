@@ -1,0 +1,5 @@
+<h2>About Us</h2>
+<p>Welcome to our company! We are dedicated to providing the best services to our clients.</p>
+<div *ngFor = "let info of about_us" class="team">
+  <app-about-us-list [about_item] = "info"></app-about-us-list>
+</div>

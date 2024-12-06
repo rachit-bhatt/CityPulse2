@@ -1,0 +1,6 @@
+export enum Role {
+    UI_DEVELOPER,
+    BACKEND_DEVELOPER,
+    CLOUD_DEVELOPER,
+    MANAGER
+}

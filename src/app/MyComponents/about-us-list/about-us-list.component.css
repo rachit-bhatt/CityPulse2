@@ -1,0 +1,43 @@
+* {
+    border: 1px solid #999;
+    background-color: #333;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+    padding: 20px;
+    min-width: 250px;
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+    min-width: 100px;
+    min-height: 100px;
+    margin-bottom: 15px;
+}
+
+h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    color: #FFF;
+}
+
+p {
+    font-size: 1em;
+    color: #999;
+}
+
+.links {
+    margin-top: 10px;
+}
+
+.links a {
+    display: inline-block;
+    margin: 0 5px;
+    color: #2d93ff;
+    text-decoration: none;
+}
+
+.links a:hover {
+    text-decoration: underline;
+}
