@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/city-pulse",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
